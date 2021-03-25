@@ -6,7 +6,7 @@
 #### 3. `Pandas`
 
 ### Usage
-`Double Click on Mouse Rigth Button`
+`Double Click Mouse Rigth Button by placing pointer on the required color area on Output Window`
 
 ### Output Window: 
 ![Output Window](Images/output1.png)
