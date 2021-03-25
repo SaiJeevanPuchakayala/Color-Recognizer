@@ -1,7 +1,7 @@
 # Color-Recognizer
 #### = > This is a Color Detector/Recognizer built using `Opencv`, `Numpy` and `Pandas`.
 ### Imported Libraries
-#### 1. `cv2`
+#### 1.  `cv2`
 #### 2. `numpy`
 #### 3. `Pandas`
 
