@@ -6,5 +6,8 @@
 #### 3. `Pandas`
 
 ### Output Window: 
-![GUI Window](Images/GUI.png)![GUI Window](Images/1.png)
-![GUI Window](Images/2.png)![GUI Window](Images/3.png)
+![Output Window](Images/output1.png)
+![Output Window](Images/output2.png)
+![Output Window](Images/output3.png)
+![Output Window](Images/output4.png)
+![Output Window](Images/output5.png)
