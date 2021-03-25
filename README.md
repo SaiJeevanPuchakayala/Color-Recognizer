@@ -5,6 +5,9 @@
 #### 2. `numpy`
 #### 3. `Pandas`
 
+### Usage
+`Double Click on Mouse Rigth Button`
+
 ### Output Window: 
 ![Output Window](Images/output1.png)
 ![Output Window](Images/output2.png)
